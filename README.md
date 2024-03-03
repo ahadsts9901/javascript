@@ -1,0 +1,1 @@
+## Some Self Learning on Javascript
